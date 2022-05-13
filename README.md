@@ -37,7 +37,7 @@ I've been learning in the field of study that combines domain expertise, program
 <br>
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://github.com/iharpreet0809/harpreet/blob/main/source/quote2.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://github.com/iharpreet0809/iharpreet0809/blob/main/source/quote2.gif" />
 
 
 :hammer_and_wrench:**I live to solve problems using Analytics!** 
