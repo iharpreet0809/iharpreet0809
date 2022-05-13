@@ -24,9 +24,9 @@ I've been learning in the field of study that combines domain expertise, program
 
 <!-- ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br /> -->
+<br>
 
-
-  ## Let's Connect and have a Chat!💬:
+  # Let's Connect and have a Chat!💬:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harpreet22/)](https://www.linkedin.com/in/harpreet22/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@harpreet22)](https://medium.com/@harpreet22)
@@ -48,10 +48,10 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 - :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Machine Learning```**, and visualisation tools such as **```Power BI```**  and **```Tableau```**.
 - :sparkles: **My greatest passion:** Using data to tell stories and derive insights for business success.
 <br />
+<br>
 
 
-
-### 🚀 Some Languages and Tools:
+# 🚀 Some Languages and Tools:
 <!-- <code>[<img align="left" alt="--" width="26px" >]-->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -77,9 +77,9 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/></code>
 <br>
+<br>
 
-
-### Harpreet's Github Stats 📈
+# Harpreet's Github Stats 📈
 
 <!-- [![stats](https://github-readme-stats.vercel.app/api?username=iharpreet0809&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/iharpreet0809) -->
 
@@ -94,7 +94,7 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 <a href="https://github.com/iharpreet0809" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharpreet0809&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used %20%Languages" alt="Most Used Languages" />
 <br>
 
-### Top Repositories:
+# Top Repositories:
 <div width="100%" align="center">
   <a href="https://github.com/iharpreet0809/python_learn" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iharpreet0809&repo=python_learn&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/iharpreet0809/Movie-Recommender-System-ML" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iharpreet0809&repo=Movie-Recommender-System-ML&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
