@@ -23,7 +23,7 @@ I've been learning in the field of study that combines domain expertise, program
 *   ⚡  Fun fact: I love to research on Artificial Intelligenc/Machine Learning. I'm detail oriented and enthusiastic about data
 
 <!-- ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
-<br /> -->
+<br />🕹️ -->
 <br>
 
   # Let's Connect and have a Chat!💬:
