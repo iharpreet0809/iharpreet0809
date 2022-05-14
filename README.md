@@ -81,9 +81,9 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 
 # Harpreet's Github Stats 📈
 
-<!-- [![stats](https://github-readme-stats.vercel.app/api?username=iharpreet0809&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/iharpreet0809) -->
+<!-- [![stats](https://github-readme-stats.vercel.app/api?username=iharpreet0809&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true&width="50%")](https://github.com/iharpreet0809) -->
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=iharpreet0809&show_icons=true&theme=dracula) ![](https://github-readme-streak-stats.herokuapp.com/?user=iharpreet0809&theme=dark)
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=iharpreet0809&show_icons=true&theme=dracula&width="50%") ![](https://github-readme-streak-stats.herokuapp.com/?user=iharpreet0809&theme=dark)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=iharpreet0809&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
