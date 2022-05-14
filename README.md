@@ -47,7 +47,7 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 **Fun Facts:**
 - :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Machine Learning```**, and visualisation tools such as **```Power BI```**  and **```Tableau```**.
 - :sparkles: **My greatest passion:** Using data to tell stories and derive insights for business success.<br>
-<a href="https://www.buymeacoffee.com/harpreet22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- <a href="https://www.buymeacoffee.com/harpreet22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
 <br />
 
 
