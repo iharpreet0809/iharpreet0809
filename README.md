@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile! :octocat:
+<h1 align="center">Welcome to my GitHub Profile! :octocat:
 </h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
@@ -90,12 +90,15 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 <div alt="logo" height="160" align="center" >
   <img src="https://github-profile-trophy.vercel.app/?username=iharpreet0809&theme=onedark&column=7&margin-w=10" alt="logo" height="160" align="center" />
 </div>
-<br>
-<a href="https://github.com/iharpreet0809" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharpreet0809&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used %20%Languages" alt="Most Used Languages" />
-<br>
 
 # Top Repositories:
-<div width="100%" align="center">
-  <a href="https://github.com/iharpreet0809/python_learn" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iharpreet0809&repo=python_learn&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/iharpreet0809/Movie-Recommender-System-ML" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iharpreet0809&repo=Movie-Recommender-System-ML&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%">
+  <a href="https://github.com/iharpreet0809/python_learn" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iharpreet0809&repo=python_learn&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/iharpreet0809/Movie-Recommender-System-ML" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iharpreet0809&repo=Movie-Recommender-System-ML&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
 </div>
+  
+<br>
+<a href="https://github.com/iharpreet0809" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharpreet0809&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used %20%Languages" alt="Most Used Languages" />
+  
+# Support Me  :octocat:
+<a href="https://www.buymeacoffee.com/harpreet22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
