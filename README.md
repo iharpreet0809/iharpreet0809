@@ -15,7 +15,7 @@ Hi there <a rel="noopener noreferrer"><img src="https://github.com/iharpreet0809
 
 I've been learning in the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.
 *   🌍  I'm based in Ahmedabad, Gujarat, India
-*   🖥️  See my portfolio at [My Website](http://iharpreet.com)
+*   🖥️  See my portfolio at [My Website](https://iharpreet.com)
 *   ✉️  You can contact me at [harpreetsingh9437@gmail.com](mailto:harpreetsingh9437@gmail.com)
 *   🧠  I'm learning Data Science topics like Machine Learning & Deep Learning
 *   🤝  I'm open to collaborating on Data Science Projects & Web Developement
