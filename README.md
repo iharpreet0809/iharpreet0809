@@ -45,7 +45,7 @@ I've been learning in the field of study that combines domain expertise, program
 For me, data analysis is a way to identify a pattern, to detect a key problem among outliers and to tell a valuable story to make an impact :bar_chart:.
 
 **Fun Facts:**
-- :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Machine Learning```**, and visualisation tools such as **```Power BI```**  and **```Tableau```**.
+- :writing_hand: I spent hours to learn **```SQL```**, **```Python```**, **```Machine Learning```**, and visualisation tools such as **```Power BI```**.
 - :sparkles: **My greatest passion:** Using data to tell stories and derive insights for business success.<br>
 <!-- <a href="https://www.buymeacoffee.com/harpreet22"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
 <br />
