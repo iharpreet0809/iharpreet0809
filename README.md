@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my GitHub Profile! :octocat:
 </h1>
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=150"/>
-</p>
+</p> -->
 
 Hi there <a rel="noopener noreferrer"><img src="https://github.com/iharpreet0809/iharpreet0809/blob/main/source/Hi.gif" width="40" height="40" style="max-width: 100%;"></a> I'm HARPREET SINGH
 ===============================
