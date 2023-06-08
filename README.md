@@ -7,7 +7,7 @@
 Hi there <a rel="noopener noreferrer"><img src="https://github.com/iharpreet0809/iharpreet0809/blob/main/source/Hi.gif" width="40" height="40" style="max-width: 100%;"></a> I'm HARPREET SINGH
 ===============================
 
-### Data Analyst/Scientist and Frontend Developer
+### Data Analyst/Scientist and Software Engineer
 ---------------------------------------------
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/iharpreet0809)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=iharpreet0809&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
