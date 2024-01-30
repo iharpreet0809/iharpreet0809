@@ -19,7 +19,7 @@ I've been learning in the field of study that combines domain expertise, program
 *   ✉️  You can contact me at [harpreetsingh9437@gmail.com](mailto:harpreetsingh9437@gmail.com)
 *   🧠  I'm learning Data Science topics like Machine Learning & Deep Learning
 *   🤝  I'm open to collaborating on Data Science & Web Developement Projects.
-*   🥅  2022 Goals: Contribute more to Open Source projects.
+*   🥅  2024 Goals: Contribute more to Open Source projects.
 *   ⚡  Fun fact: I love to research on Artificial Intelligence/Machine Learning. I'm detail oriented and data enthusiastic.
 
 <!-- ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
