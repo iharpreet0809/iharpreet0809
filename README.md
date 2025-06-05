@@ -90,10 +90,11 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 
 
 <div alt="logo" height="160" align="center" >
-  <img src="https://github-profile-trophy.vercel.app/?username=iharpreet0809&theme=onedark&column=7&margin-w=10" alt="logo" height="160" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iharpreet0809&theme=onedark&column=7&margin-w=10" alt="logo" height="180" align="center" />
 </div>
 
 <br>
+
 <!-- Most Used Language-->
 
   <a href="https://github.com/iharpreet0809" align="left">
