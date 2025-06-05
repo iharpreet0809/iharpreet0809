@@ -96,6 +96,10 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
  
 # Top Repositories:
 <div width="100%">
-  <a href="https://github.com/iharpreet0809/Car-Booking-Application-in-Django-using-DRF" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iharpreet0809&repo=Car_Booking_Application_Using_DRF&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://github.com/iharpreet0809/Car-Booking-Application-in-Django-using-DRF" align="left">
+  <img align="left" width="45%" 
+       src="https://github-readme-stats.vercel.app/api/pin/?username=iharpreet0809&repo=Car-Booking-Application-in-Django-using-DRF&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+
   <a href="https://github.com/iharpreet0809/Movie-Recommender-System-ML" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=iharpreet0809&repo=Movie-Recommender-System-ML&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /><br><br>
 </div>
