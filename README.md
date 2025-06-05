@@ -84,13 +84,15 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 ![Harpreet's github stats](https://github-readme-stats.vercel.app/api?username=iharpreet0809&show_icons=true&theme=dracula)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iharpreet0809&theme=dark)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=iharpreet0809&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=iharpreet0809&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+
 
 <div alt="logo" height="160" align="center" >
   <img src="https://github-profile-trophy.vercel.app/?username=iharpreet0809&theme=onedark&column=7&margin-w=10" alt="logo" height="160" align="center" />
 </div>
 
 <br>
+<!-- Most Used Language-->
 
   <a href="https://github.com/iharpreet0809" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharpreet0809&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
