@@ -84,7 +84,9 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 ![Harpreet's github stats](https://github-readme-stats.vercel.app/api?username=iharpreet0809&show_icons=true&theme=dracula)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iharpreet0809&theme=dark)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=iharpreet0809&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+<!-- Image tag-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iharpreet0809&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+
 
 
 <div alt="logo" height="160" align="center" >
