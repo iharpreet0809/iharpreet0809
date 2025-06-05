@@ -16,7 +16,7 @@ Hi there <a rel="noopener noreferrer"><img src="https://github.com/iharpreet0809
 I've been learning in the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.
 *   🌍  I'm based in Ahmedabad, Gujarat, India
 *   🖥️  See my portfolio at [My Website](https://iharpreet.com)
-*   ✉️  You can contact me at [harpreetsingh9437@gmail.com](mailto:harpreetsingh9437@gmail.com)
+*   ✉️  You can contact me at [talkwithharpreet@gmail.com](mailto:talkwithharpreet@gmail.com)
 *   🧠  I'm learning Data Science topics like Machine Learning & Deep Learning
 *   🤝  I'm open to collaborating on Data Science & Web Developement Projects.
 *   🥅  2025 Goals: Contribute more to Open Source projects.
@@ -62,7 +62,7 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></code>
-<code><img src="https://camo.githubusercontent.com/69ce21304adac467a8251181f98932e1785abd9d718cdd8edc78d1abbf2dcb49/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" alt="scikit_learn" width="40" height="40" data-canonical src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"> </code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorslow" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/></code>
