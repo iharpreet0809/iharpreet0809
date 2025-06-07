@@ -81,8 +81,6 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 <br>
 
 # Harpreet's Github Stats 📈
-
-![Harpreet's github stats]
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=iharpreet0809&show_icons=true&theme=dracula" alt="Harpreet's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iharpreet0809&theme=dark" alt="Harpreet's GitHub Streak" width="48%" />
