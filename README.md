@@ -33,7 +33,7 @@ I've been learning in the field of study that combines domain expertise, program
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://iharpreet.com)](https://iharpreet.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/iharpreet0809)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/s4smarty_slam/)](https://instagram.com/s4smarty)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harpreetsingh9437@gmail.com)](mailto:harpreetsingh9437@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harpreetsingh9437@gmail.com)](mailto:talkwithharpreet@gmail.com)
 <br>
 <br />
 
